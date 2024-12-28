@@ -29,5 +29,9 @@ permalink: /data
   L.marker([33.2145, -117.3872]).addTo(map)
     .bindPopup("<b>Camp Pendleton, CA</b><br>Hispanic/Latino Population: 39.1% (2024)")
     .openPopup();
+
+   L.marker([33.2145, -117.3872]).addTo(map)
+    .bindPopup("<b>Fort Cavazos, TX</b><br>Hispanic/Latino Population: 24.19% (2020)")
+    .openPopup();
 </script>
 
