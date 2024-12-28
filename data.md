@@ -30,7 +30,7 @@ permalink: /data
     .bindPopup("<b>Camp Pendleton, CA</b><br>Hispanic/Latino Population: 39.1% (2024)")
     .openPopup();
 
-   L.marker([33.2145, -117.3872]).addTo(map)
+   L.marker([31.1551, -97.7646]).addTo(map)
     .bindPopup("<b>Fort Cavazos, TX</b><br>Hispanic/Latino Population: 24.19% (2020)")
     .openPopup();
 </script>
