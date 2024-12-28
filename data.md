@@ -22,9 +22,12 @@ permalink: /data
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
 
-  // Add a marker for Fort Knox, KY
   L.marker([37.9161, -85.9562]).addTo(map)
-    .bindPopup("<b>Fort Knox, KY</b><br>Hispanic/Latino: 25.1%")
+    .bindPopup("<b>Fort Knox, KY</b><br>Hispanic/Latino: 25.1% (2024")
+    .openPopup();
+
+  L.marker([33.2145, -117.3872]).addTo(map)
+    .bindPopup("<b>Camp Pendleton, CA</b><br>Hispanic/Latino Population: 39.1% (2024)")
     .openPopup();
 </script>
 
