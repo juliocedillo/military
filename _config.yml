@@ -4,4 +4,4 @@ theme: jekyll-theme-slate
 markdown: kramdown
 url: "https://juliocedillo.guthub.io"
 baseurl: "/military"
-#logo:
+logo: "/assets/images/usa.webp"
