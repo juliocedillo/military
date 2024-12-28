@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ong" type="image/x-icon">
+</head>
+<body>
+  <header>
+    <h1>
+      <a href="{{ site.url | default: site.baseurl }}" style="display: flex; align-items: center;">
+        <img src="{{ site.logo | relative_url }}" alt="Logo" style="height: 40px; margin-right: 10px;">
+        {{ site.title }}
+      </a>
+    </h1>
+    <nav>
+      <ul>
+        {% for item in site.data.navigation %}
+          <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer style="display: flex; align-items: center;">
+    <a href="https://www.sociology.berkeley.edu/">
+      <img src="https://juliocedillo.github.io/military/assets/images/usa.webp" style="width: 150px; margin-right: 20px;">
+    </a>
+    <p>&copy; {{ "now" | date: "%Y" }} Julio Cedillo. All rights reserved.</p>
+  </footer>
+</body>
+</html>
