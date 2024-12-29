@@ -53,3 +53,44 @@ footer {
   padding: 10px;
   margin-top: 20px;
 }
+
+.people-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 30px;
+  margin: 20px;
+}
+
+/* Style for individual person block */
+.person {
+  display: flex;
+  align-items: center; 
+  max-width: 350px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+/* Styling the images */
+.person-image {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+/* Styling for the bio section */
+.bio {
+  max-width: 200px; 
+}
+
+.bio h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.bio p {
+  font-size: 1em;
+  line-height: 1.5;
+}
