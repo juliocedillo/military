@@ -4,4 +4,4 @@ title: Home
 permalink: /
 ---
 
-Sociology honors thesis project
+<img src="juliocedillo.github.io/military/assets/images/branches.png" align="center">
