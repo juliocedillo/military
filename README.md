@@ -1,1 +1,1 @@
-This is a website for my current research in political sociology. This project is conducted under the Department of Sociology.
+This website hosts my upcoming research project beginning in February 2025. General information will be added and will be updated as I progress throughout the research journey. This project will be conducted by me and will be supervised by the Department of Sociology at UC Berkeley. All rights reserved.
