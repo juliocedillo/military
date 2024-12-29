@@ -37,5 +37,13 @@ permalink: /data
   L.marker([35.139167, -78.999167]).addTo(map)
     .bindPopup("<b>Fort Bragg, NC</b>")
     .openPopup();
+
+ L.marker([32.8115, -115.6723]).addTo(map)
+    .bindPopup("<b>Naval Air Facility</b><br>El Centro, CA")
+    .openPopup();  
+
+L.marker([32.8115, -115.6723]).addTo(map)
+    .bindPopup("<b>Marine Corps Air Station Miramar</b><br>San Diego, CA")
+    .openPopup();  
 </script>
 
