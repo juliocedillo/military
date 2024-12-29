@@ -23,26 +23,26 @@ permalink: /data
   }).addTo(map);
 
   L.marker([37.9161, -85.9562]).addTo(map)
-    .bindPopup("<b>Fort Knox, KY</b><br>Hispanic/Latino: 25.1% (2024")
+    .bindPopup("<b>Fort Knox</b><br>Fort Knox, KY")
     .openPopup();
 
   L.marker([33.2145, -117.3872]).addTo(map)
-    .bindPopup("<b>Camp Pendleton, CA</b><br>Hispanic/Latino Population: 39.1% (2024)")
+    .bindPopup("<b>Camp Pendleton</b><br>San Diego, CA")
     .openPopup();
 
   L.marker([31.1551, -97.7646]).addTo(map)
-    .bindPopup("<b>Fort Cavazos, TX</b><br>Hispanic/Latino Population: 24.19% (2020)")
+    .bindPopup("<b>Fort Cavazos (Fort Hood)</b><br>Killeen-Copperas Cove, TX")
     .openPopup();
 
   L.marker([35.139167, -78.999167]).addTo(map)
-    .bindPopup("<b>Fort Bragg, NC</b>")
+    .bindPopup("<b>Fort Liberty (Fort Bragg)</b><br>Fayetteville, NC")
     .openPopup();
 
  L.marker([32.8115, -115.6723]).addTo(map)
-    .bindPopup("<b>Naval Air Facility</b><br>El Centro, CA")
+    .bindPopup("<b>Naval Air Facility El Centro</b><br>El Centro, CA")
     .openPopup();  
 
-L.marker([32.8115, -115.6723]).addTo(map)
+L.marker([32.887299, -117.119843]).addTo(map)
     .bindPopup("<b>Marine Corps Air Station Miramar</b><br>San Diego, CA")
     .openPopup();  
 </script>
