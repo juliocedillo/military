@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about
+title: Research Team
+permalink: /resteam
 ---
 # About Julio
 
