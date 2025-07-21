@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about
+title: Participation
+permalink: /participation
 ---
 
 test page
