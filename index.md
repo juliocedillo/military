@@ -4,12 +4,16 @@ title: Home
 permalink: /
 ---
 <header class="video-header">
-  <video autoplay muted loop playsinline class="background-video">
-    <source src="https://www.youtube.com/watch?v=bfgxLpbR5uU" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <div class="header-content">
-    <h1>Your participation matters.</h1>
+  <div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/bfgxLpbR5uU?autoplay=1&mute=1&loop=1&playlist=bfgxLpbR5uU"
+      frameborder="0"
+      allow="autoplay; fullscreen"
+      allowfullscreen>
+    </iframe>
+    <div class="header-content">
+      <h1>Your participation matters.</h1>
+    </div>
   </div>
 </header>
 
