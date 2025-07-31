@@ -6,9 +6,9 @@ permalink: /
 <header class="video-header">
   <div class="video-container">
     <iframe
-      src="https://www.youtube.com/embed/bfgxLpbR5uU?autoplay=1&mute=1&loop=1&playlist=bfgxLpbR5uU"
+      src="https://www.youtube.com/embed/bfgxLpbR5uU?autoplay=1&mute=1&loop=1&playlist=bfgxLpbR5uU&controls=0&modestbranding=1&showinfo=0&rel=0"
       frameborder="0"
-      allow="autoplay; fullscreen"
+      allow="autoplay; encrypted-media"
       allowfullscreen>
     </iframe>
     <div class="header-content">
