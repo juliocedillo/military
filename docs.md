@@ -4,4 +4,6 @@ title: Documents
 permalink: /docs
 ---
 
-test page
+[Informed Consent Form]("https://juliocedillo.github.io/assets/pdf/Informed_Consent_Form_2025")
+
+[Committee for the Protection of Human Subjects Approval Letter]("https://juliocedillo.github.io/assets/pdf/ApprovalLetter-IRB2025-04-18454.pdf")
