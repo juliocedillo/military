@@ -8,4 +8,4 @@ permalink: /docs
 
 [Committee for the Protection of Human Subjects Approval Letter](assets/pdf/ApprovalLetter-IRB2025-04-18454.pdf)
 
-[Research Eligibility Screening Form]("https://berkeley.qualtrics.com/jfe/form/SV_7Wlihx37aTpx5UW")
+[Research Eligibility Screening Form](https://berkeley.qualtrics.com/jfe/form/SV_7Wlihx37aTpx5UW)
