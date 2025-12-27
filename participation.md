@@ -86,6 +86,5 @@ For more details, review the "Confidentiality" section in the Informed Consent F
     <p>The last theme will ask about participants’ political opinions and how they decide to vote–in the interest of family, Latinos, military, or party affiliations. These questions will inquire participants on how they navigate political disagreements with colleagues and family (if applicable). Ultimately, these questions will ask participants about their political party alignment and how and why they’re involved in politics.
 </p>
   </li>
-  </ul>
 </details>
 
