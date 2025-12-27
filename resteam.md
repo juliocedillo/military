@@ -10,10 +10,8 @@ permalink: /resteam
   <div>
     <h2 style="margin: 0; font-size: 24px;">Julio Cedillo</h2>
     <h3 style="margin-top: 5px; font-size: 18px; color: #777;">Undergraduate Sociology Student</h3> 
-    <p style="font-size: 16px; color: #666;">Julio Cedillo was born in Tyler, Texas, and raised in San Diego, California. He is a fourth-year sociology major pursuing his bachelor's degree with a concentration in sociological research methods. 
-
-Before Berkeley, he received his associate's degrees in Sociology, Chicana/o Studies, and Social & Behavioral Sciences from San Diego City College. His research agenda focuses on economic, political, and postcolonial sociology. He is currently a fellow in the Haas Scholars Program and the Faculty-Mentored Undergraduate Research Fellowship alongside [Professor Lara-Millán](https://sociology.berkeley.edu/faculty/armando-lara-millan).    
-</p>
+    <p style="font-size: 16px; color: #666;">Julio Cedillo was born in Tyler, Texas, and raised in San Diego, California. He is a fourth-year sociology major pursuing his bachelor's degree with a concentration in sociological research methods. Before Berkeley, he received his associate's degrees in Sociology, Chicana/o Studies, and Social & Behavioral Sciences from San Diego City College. His research agenda focuses on economic, political, and postcolonial sociology. He is currently a fellow in the Haas Scholars Program and the Faculty-Mentored Undergraduate Research Fellowship alongside <a href="https://sociology.berkeley.edu/faculty/armando-lara-millan">Professor Lara-Millán</a>
+.</p>
   </div>
 </div>
 
