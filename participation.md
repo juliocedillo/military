@@ -4,6 +4,10 @@ title: Participation
 permalink: /participation
 ---
 
+<img src="/assets/images/latino_soldier.jpg"
+     alt="historical latino soldier"
+     style="float: right; max-width: 300px; margin: 0 0 1rem 1.5rem;">
+
 # Participating in Research
 Thank you for your consideration in participating in this research study. Please review the information below. If you have any additional questions, please don't hesitate to reach out to me. You can find my contact information on the "Contact" page.
 
