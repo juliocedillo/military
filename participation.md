@@ -4,6 +4,19 @@ title: Participation
 permalink: /participation
 ---
 
+# Participating in Research
+Thank you for your consideration in participating in this research study. Please review the information below. If you have any additional questions, please don't hesitate to reach out to me. You can find my contact information on the "Contact" page.
+
+### Main Information (Summary)
+
+- You are being invited to participate in a research study. Participation in research is completely voluntary.
+- The purpose of the study is to examine the effect of military service in relation to political identity among Latino soldiers.
+- The study will take a maximum of an hour and a half. You will be asked to answer questions about yourself, your experience in the military, and your political preferences.
+- Risks and/or discomforts may include the risk of an unintended breach of confidentiality.
+- There is no direct benefit for you for participating. However, the results from the study may provide information about how Latino soldiers engage in politics and make sense of national belonging.
+
+### Frequently Asked Questions
+
 <details>
   <summary> How can I participate in the study?</summary>
   <p>If you meet the eligibility requirements, you can participate by being interviewed for the project. You can also refer someone you know for an interview. 
@@ -12,3 +25,67 @@ Interviews are confidential. Interviews typically take one hour, but may take up
 
 Interviews can take place in-person or over Zoom.</p>
 </details>
+
+<details>
+  <summary>Who is eligible to participate?</summary>
+
+  <p>To participate in this study you must meet the following requirements:</p>
+
+  <ul>
+    <li>Identify as Latina/o/x or Hispanic</li>
+    <li>Be 18 years old or older</li>
+    <li>Serving in one of the following military branches:
+      Army, Navy, Marines, Coast Guard, or Air Force</li>
+    <li>Registered to vote</li>
+  </ul>
+</details>
+
+<details>
+  <summary>What are the costs and benefits of participation?</summary>
+  <p>Participating will cost you nothing monetarily, but will cost approximately 60-90 minutes of your time. There are no direct benefits to participants.</p>
+</details>
+
+<details>
+  <summary>How will you protect my confidentiality?</summary>
+  <p>Interviews are confidential. That means that any identifying information about you will not be released or published without your explicit permission.
+
+Interviews will be audio-recorded to ensure the accuracy of transcripts. The audio recordings could identify you, which is why I will be the only one with access to the audio file. After the transcript is made, the audio file will be deleted. Furthermore, identifying information will be redacted from the transcript.
+
+Audio files and any other personally identifiable information linked to your research data (such as your contact information, if you opt-in to allow follow-up communications) will be stored in an encrypted password-protected file folder, on a password-protected computer in the personal possession of the lead researcher.
+
+For more details, review the "Confidentiality" section in the Informed Consent Form found in the Documents tab above.</p>
+</details>
+
+<details>
+  <summary>What will you ask about in interviews?</summary>
+  <p>There are five central themes in the interview questions.</p>
+  <ul>
+    <li>
+      <strong>Cultural Upbringing</strong>
+      <p>These questions will ask the participant about their childhood,
+        familial influences, and how they were socialized. Through this
+        process, participants will talk about their cultural identity.
+      </p>
+    </li>
+    <li>
+      <strong>Decision to Enlist</strong>
+      <p>These questions will ask the participant as to why they decided to join the military–i.e., for patriotic purposes, influence, or social mobility. Through these questions, participants will talk about understanding the responsibilities and benefits based on the commitment. If applicable, questions will also ask those who’ve decided to re-enlist.
+</p>
+    </li>
+  <li>
+    <strong>Experiences in the Military</strong>
+    <p>These questions ask about their lived experiences in the military. Questions will be asked about BMT/MCT/Bootcamp Training, influences of leadership, connecting with other Latinos in the military, racial dynamics, and the political landscape of their deployment.
+</p>
+  <li>
+    <strong>Patriotism and Self Perception</strong>
+    <p>These questions will be asked to see how Latino soldiers make about their cultural identity and sense of belonging in the United States. In turn, these questions ask them how they view themselves in the broader Latino community. This theme seeks to understand if there were any influences in the military to change one’s perspective.
+</p>
+  </li>
+  <li>
+    <strong>Voting and Political Identification</strong>
+    <p>The last theme will ask about participants’ political opinions and how they decide to vote–in the interest of family, Latinos, military, or party affiliations. These questions will inquire participants on how they navigate political disagreements with colleagues and family (if applicable). Ultimately, these questions will ask participants about their political party alignment and how and why they’re involved in politics.
+</p>
+  </li>
+  </ul>
+</details>
+
