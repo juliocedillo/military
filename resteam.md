@@ -33,3 +33,7 @@ Michael's current research focuses on Puerto Rican diasporic anticolonialism and
 </div>
 
 # Funding
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <img src="https://juliocedillo.github.io/military/assets/images/Haas Logo.png" alt="Profile Image" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
+  <div>
+
