@@ -3,7 +3,7 @@ layout: default
 title: Research Team
 permalink: /resteam
 ---
-# About Julio
+# The Team
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <img src="https://juliocedillo.github.io/neweconomy/assets/images/julio.png" alt="Profile Image" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
@@ -31,3 +31,5 @@ Michael's current research focuses on Puerto Rican diasporic anticolonialism and
 </p>
   </div>
 </div>
+
+# Funding
