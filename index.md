@@ -18,23 +18,18 @@ permalink: /
   ">
     Your participation matters.
 
-    Share your experience and help shape research on Latino military service and citizenship.
   </div>
 
-<p>&nbsp;&nbsp;&nbsp;</p>
+Share your experience and help shape research on Latino military service and citizenship.
+
 
 <p align="center">
   <img src="https://juliocedillo.github.io/military/assets/images/branches.png">
 </p>
 
-<p>&nbsp;&nbsp;&nbsp;</p>
-
 |Goal|Method|Impact|
 |---|---|---|
-|This project investigates the role of military service and its influences on Latino soldiers’ identity and political engagement. It also seeks to understand how military service creates ideas of citizenship and how Latinos are perceived in American society
-|This project utilizes in-depth interviewing. This involves speaking with Latino soldiers to understand their cultural upbringing, decision to enlist, experiences in the military, patriotism and self self-perception, and voting/political identification.
-|We hope that understanding the changes that Latino soldiers undergo will reveal whether they change or affirm political preferences through the military, and how those changes either reflect the current political engagement of Latinos or stray from political preconceptions. Subsequently, we hope to understand how military service is utilized for citizenship purposes for Latino recognition as Americans. Additionally, we hope to contribute to military sociology and provide contemporary insights into the state of Latino soldiers today, as much research on Latino soldiers tends to be historical.
-|
+|This project investigates the role of military service and its influences on Latino soldiers’ identity and political engagement. It also seeks to understand how military service creates ideas of citizenship and how Latinos are perceived in American society|This project utilizes in-depth interviewing. This involves speaking with Latino soldiers to understand their cultural upbringing, decision to enlist, experiences in the military, patriotism and self self-perception, and voting/political identification.|We hope that understanding the changes that Latino soldiers undergo will reveal whether they change or affirm political preferences through the military, and how those changes either reflect the current political engagement of Latinos or stray from political preconceptions. Subsequently, we hope to understand how military service is utilized for citizenship purposes for Latino recognition as Americans. Additionally, we hope to contribute to military sociology and provide contemporary insights into the state of Latino soldiers today, as much research on Latino soldiers tends to be historical.|
 
 <p>&nbsp;&nbsp;&nbsp;</p>
 
