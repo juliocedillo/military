@@ -3,9 +3,22 @@ layout: default
 title: Home
 permalink: /
 ---
-<div style="position: relative; text-align: center; color: white;">
+<div style="
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+">
 
-  <img src="https://juliocedillo.github.io/military/assets/salute.jpeg" alt="Salute" style="width: 100%; height: auto;">
+  <img src="https://juliocedillo.github.io/military/assets/salute.jpeg"
+       alt="Salute"
+       style="
+         width: 100%;
+         height: 100%;
+         object-fit: cover;
+       ">
 
   <div style="
       position: absolute;
@@ -15,13 +28,14 @@ permalink: /
       font-size: 2.5rem;
       font-family: sans-serif;
       text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+      max-width: 90%;
   ">
     Your participation matters.
     Share your experience and help shape research on Latino military service and citizenship.
-
   </div>
 
 </div>
+
 
 
 <p align="center">
