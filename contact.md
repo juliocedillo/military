@@ -6,7 +6,7 @@ permalink: /contact
 
 <div style="position: relative; text-align: center; color: white;">
 
-  <img src="https://juliocedillo.github.io/military/assets/campanile_flags.jpeg" alt="military flags in front of Sather Tower" style="width: 100%; height: auto;">
+  <img src="https://juliocedillo.github.io/military/assets/images/campanile_flags.jpeg" alt="military flags in front of Sather Tower" style="width: 100%; height: auto;">
 
   <div style="
       position: absolute;
