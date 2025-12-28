@@ -4,7 +4,7 @@ title: Participation
 permalink: /participation
 ---
 
-<img src="/assets/images/latino_soldier.jpg"
+<img src="https://juliocedillo.github.io/military/assets/images/latino_soldier.jpg"
      alt="historical latino soldier"
      style="float: right; max-width: 300px; margin: 0 0 1rem 1.5rem;">
 
