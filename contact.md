@@ -23,15 +23,10 @@ permalink: /contact
 
 </div>
 
-<div align="center">
-  Department of Sociology
-  
-  410 Social Sciences Building
-  
-  Berkeley, CA 94720
-
-  julio.cedillo@berkeley.edu
-
-  CPHS Protocol Number
-  #2025-04-18454
+<div style="text-align: center;">
+  <p>Department of Sociology</p>
+  <p>410 Social Sciences Building</p>
+  <p>Berkeley, CA 94720</p>
+  <p>julio.cedillo@berkeley.edu</p>
+  <p>CPHS Protocol Number<br>#2025-04-18454</p>
 </div>
