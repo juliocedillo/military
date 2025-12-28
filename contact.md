@@ -8,7 +8,7 @@ permalink: /contact
 
 <img src="https://juliocedillo.github.io/military/assets/images/campanile_flags.jpeg"
      alt="military flags in front of Sather Tower"
-     style="width: 100%; height: 100%; object-fit: cover;">
+     style="width: 100%; height: 100%; object-fit: center 85%;">
 
 <div style="
   position: absolute;
