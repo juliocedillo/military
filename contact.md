@@ -25,7 +25,9 @@ permalink: /contact
 
 <div align="center">
   Department of Sociology
+  
   410 Social Sciences Building
+  
   Berkeley, CA 94720
 
   julio.cedillo@berkeley.edu
