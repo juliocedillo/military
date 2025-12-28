@@ -20,12 +20,16 @@ permalink: /
 
   </div>
 
+</div>
+
 Share your experience and help shape research on Latino military service and citizenship.
 
 
 <p align="center">
   <img src="https://juliocedillo.github.io/military/assets/images/branches.png">
 </p>
+
+
 
 |Goal|Method|Impact|
 |---|---|---|
