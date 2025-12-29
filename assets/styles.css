@@ -1,3 +1,4 @@
+/* General body and fonts */
 body {
   font-family: "Arial", sans-serif;
   line-height: 1.6;
@@ -13,6 +14,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Arial", sans-serif;
 }
 
+/* Header */
 header {
   background-color: #424756;
   color: #fff;
@@ -24,11 +26,12 @@ header h1 a {
   text-decoration: none;
 }
 
-
+/* Main content */
 main {
   padding: 20px;
 }
 
+/* Footer */
 footer {
   background-color: #424756;
   color: #fff;
@@ -37,6 +40,7 @@ footer {
   margin-top: 20px;
 }
 
+/* People container */
 .people-container {
   display: flex;
   flex-wrap: wrap;
@@ -45,7 +49,6 @@ footer {
   margin: 20px;
 }
 
-/* Style for individual person block */
 .person {
   display: flex;
   align-items: center; 
@@ -54,7 +57,6 @@ footer {
   margin-bottom: 20px;
 }
 
-/* Styling the images */
 .person-image {
   border-radius: 50%;
   width: 150px;
@@ -63,7 +65,6 @@ footer {
   margin-right: 20px;
 }
 
-/* Styling for the bio section */
 .bio {
   max-width: 200px; 
 }
@@ -78,9 +79,10 @@ footer {
   line-height: 1.5;
 }
 
+/* Video header */
 .video-header {
   position: relative;
-  height: 400px; /* Adjust as needed */
+  height: 400px; 
   overflow: hidden;
   display: flex;
   align-items: center;
@@ -105,12 +107,14 @@ footer {
   padding: 20px;
 }
 
+/* Floating images */
 .float-right {
   float: right;
   max-width: 300px;
   margin: 0 0 1rem 1.5rem;
 }
 
+/* Tables */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -128,60 +132,41 @@ th {
   text-align: left;
 }
 
-/* Remove all bullets from navbar lists and links */
-nav ul,
-nav li,
-nav li::before,
-nav a::before {
-  list-style: none !important;
-  margin: 0;
-  padding: 0;
-  content: none !important;
-}
+/* Navbar */
 
-/* nav bar */
-nav ul,
-nav li,
-nav li::before,
-nav a::before {
-  list-style: none !important;
-  margin: 0;
-  padding: 0;
-  content: none !important;
-}
-
-/* navbar horizontal */
+/* Remove bullets and spacing */
 nav ul {
-  display: flex;
-  gap: 15px; /* spacing between links */
+  display: flex;       /* horizontal layout */
+  gap: 15px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 nav li {
-  display: inline; /* inline layout */
+  display: inline-block; /* allows proper sizing for underline */
 }
 
-/* link styling */
 nav a {
   color: #fff;
   text-decoration: none;
-  position: relative;
+  position: relative;   /* needed for underline effect */
   padding: 5px 0;
   transition: color 0.3s;
 }
 
-/* sliding underline effect */
+/* Hover underline effect */
 nav a::after {
   content: "";
   position: absolute;
   left: 0;
   bottom: 0;
   width: 0%;
-  height: 2px;           /* thickness of underline */
-  background-color: #fff; /* white underline */
+  height: 2px;
+  background-color: #fff;
   transition: width 0.3s ease;
 }
 
-/* expand the underline on hover */
 nav a:hover::after {
   width: 100%;
 }
