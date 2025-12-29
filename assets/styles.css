@@ -145,31 +145,22 @@ th {
   text-align: left;
 }
 
-/* Navbar styling without bullets */
+/* Remove bullets from navbar links added by theme */
+nav li::before {
+  content: none !important;
+}
+
+/* Ensure the navbar is horizontal */
 nav ul {
-  list-style: none;       /* Remove default bullets */
+  list-style: none !important;
   margin: 0;
   padding: 0;
-  display: flex;          /* Horizontal layout */
-  gap: 15px;              /* Space between links */
+  display: flex;
+  gap: 15px;
 }
 
 nav li {
-  list-style: none;       /* Extra safety */
+  list-style: none !important;
   margin: 0;
   padding: 0;
 }
-
-nav li::before {
-  content: none;          /* Remove pseudo-element bullets if any */
-}
-
-nav a {
-  text-decoration: none;  /* Remove underline */
-  color: #fff;            /* Keep your white links */
-}
-
-nav a:visited {
-  color: #fff;            /* Keep visited links white */
-}
-
