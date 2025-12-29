@@ -3,7 +3,35 @@ layout: default
 title: Research Team
 permalink: /resteam
 ---
-# The Team
+<div style="
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+">
+
+  <img src="https://juliocedillo.github.io/military/assets/images/sather_gate.jpeg"
+       alt="Salute"
+       style="
+         width: 100%;
+         height: 100%;
+         object-fit: cover;
+       ">
+
+  <div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 2.5rem;
+      font-family: sans-serif;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+      max-width: 90%;
+  ">
+    Research Team
+  </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <img src="https://juliocedillo.github.io/neweconomy/assets/images/julio.png" alt="Profile Image" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
