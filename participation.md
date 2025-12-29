@@ -98,11 +98,6 @@ For more details, review the "Confidentiality" section in the Informed Consent F
     margin: 0;
   }
 
-nav ul {
-  list-style: none;
-  padding-left: 0;
-  margin
-}
 
   li {
     margin-bottom: 15px;
