@@ -102,6 +102,7 @@ nav ul {
   list-style: none;
   padding-left: 0;
   margin
+}
 
   li {
     margin-bottom: 15px;
