@@ -139,23 +139,49 @@ nav a::before {
   content: none !important;
 }
 
-/* Make navbar horizontal */
+/* nav bar */
+nav ul,
+nav li,
+nav li::before,
+nav a::before {
+  list-style: none !important;
+  margin: 0;
+  padding: 0;
+  content: none !important;
+}
+
+/* navbar horizontal */
 nav ul {
   display: flex;
   gap: 15px; /* spacing between links */
 }
 
-/* Ensure list items have no extra styles */
 nav li {
   display: inline; /* inline layout */
 }
 
-/* Navbar links styling */
+/* link styling */
 nav a {
   color: #fff;
   text-decoration: none;
+  position: relative;
+  padding: 5px 0;
+  transition: color 0.3s;
 }
 
-nav a:visited {
-  color: #fff;
+/* sliding underline effect */
+nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 2px;           /* thickness of underline */
+  background-color: #fff; /* white underline */
+  transition: width 0.3s ease;
+}
+
+/* expand the underline on hover */
+nav a:hover::after {
+  width: 100%;
 }
