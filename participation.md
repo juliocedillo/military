@@ -61,72 +61,70 @@ For more details, review the "Confidentiality" section in the Informed Consent F
 </details>
 
 <style>
-  details {
-    border: 1px solid #ccc;
-    border-radius: 6px;
-    padding: 10px 15px;
-    background-color: #f9f9f9;
-    max-width: 700px;
-    font-family: Arial, sans-serif;
-  }
+/* Paste the scoped CSS here */
+details {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 10px 15px;
+  background-color: #f9f9f9;
+  max-width: 700px;
+  font-family: Arial, sans-serif;
+}
 
-  summary {
-    font-size: 1.2em;
-    font-weight: bold;
-    cursor: pointer;
-    color: #000000;
-    list-style: none; /* removes default triangle */
-    position: relative;
-    padding-left: 25px;
-  }
+details summary {
+  font-size: 1.2em;
+  font-weight: bold;
+  cursor: pointer;
+  color: #000000;
+  list-style: none;
+  position: relative;
+  padding-left: 25px;
+}
 
-  /* Custom arrow */
-  summary::before {
-    content: "▶"; /* right-pointing arrow */
-    position: absolute;
-    left: 0;
-    transition: transform 0.3s ease;
-  }
+details summary::before {
+  content: "▶";
+  position: absolute;
+  left: 0;
+  transition: transform 0.3s ease;
+}
 
-  details[open] summary::before {
-    transform: rotate(90deg); /* rotate arrow when open */
-  }
+details[open] summary::before {
+  transform: rotate(90deg);
+}
 
-  ul {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-  }
+details ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
 
+details li {
+  margin-bottom: 15px;
+  position: relative;
+  padding-left: 20px;
+}
 
-  li {
-    margin-bottom: 15px;
-    position: relative;
-    padding-left: 20px;
-  }
+details li::before {
+  content: "•";
+  color: black;
+  position: absolute;
+  left: 0;
+}
 
-  li::before {
-    content: "•"; /* black bullet */
-    color: black;
-    position: absolute;
-    left: 0;
-  }
+details li p {
+  margin: 5px 0 0 0;
+  line-height: 1.5;
+}
 
-  li p {
-    margin: 5px 0 0 0;
-    line-height: 1.5;
-  }
+details > ul {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.5s ease;
+}
 
-  /* Smooth slide animation */
-  details > ul {
-    overflow: hidden;
-    max-height: 0;
-    transition: max-height 0.5s ease;
-  }
-
-  details[open] > ul {
-    max-height: 2000px; /* large value to allow full expansion */
-  }
+details[open] > ul {
+  max-height: 2000px;
+}
 </style>
 
 <details>
