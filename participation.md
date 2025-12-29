@@ -4,12 +4,39 @@ title: Participation
 permalink: /participation
 ---
 
-<img src="https://juliocedillo.github.io/military/assets/images/latino_soldier.jpg"
-     alt="historical latino soldier"
-     style="float: right; max-width: 300px; margin: 0 0 1rem 1.5rem;">
+<div style="
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+">
 
-# Participating in Research
-Thank you for your consideration in participating in this research study. Please review the information below. If you have any additional questions, please don't hesitate to reach out to me. You can find my contact information on the "Contact" page.
+  <img src="https://juliocedillo.github.io/military/assets/images/participation.webp"
+       alt="latino soldier posing in front of usa flag"
+       style="
+         width: 100%;
+         height: 100%;
+         object-fit: cover;
+       ">
+
+  <div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 2.5rem;
+      font-family: sans-serif;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+      max-width: 90%;
+  ">
+    Participating in Research
+  </div>
+
+</div>
+
+## Thank you for your consideration in participating in this research study. Please review the information below. If you have any additional questions, please don't hesitate to reach out to me. You can find my contact information on the "Contact" page.
 
 ### Main Information (Summary)
 
