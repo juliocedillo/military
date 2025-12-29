@@ -30,13 +30,18 @@ permalink: /
       text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
       max-width: 90%;
   ">
-    Your participation matters.
-    Share your experience and help shape research on Latino military service and citizenship.
+    Welcome!
   </div>
 
 </div>
 
+<div style="margin-top: 2rem;"></div>
 
+<div style="text-align: center;">
+  <strong>The Latino Soldiers & Politics Research Project is investigating how military service influences Latino identity, political engagement, and citizenship among Latino soldiers in the five main branches of the U.S. Military. This research is led by Julio Cedillo, an undergraduate student researcher at UC Berkeley, and advised by Professor Rodríguez-Muñiz. If you're interested in participating, please refer to the "Participation" tab. This research is made possible through funding made the Haas Scholars Program.</strong>
+</div>
+
+<div style="margin-top: 2rem;"></div>
 
 <p align="center">
   <img src="https://juliocedillo.github.io/military/assets/images/branches.png">
@@ -65,9 +70,15 @@ permalink: /
   </tbody>
 </table>
 
-<p>&nbsp;&nbsp;&nbsp;</p>
+<div style="margin-top: 2rem;"></div>
 
-## Still unsure but want to learn more before committing to participate?
+<div style="text-align: center;">
+  <strong>Informational Meetings</strong><br>
+  Are you unsure about any information on the website? You can schedule a quick 15-minute meeting with Julio and ask additional questions you may have. Please note that this is not an official interview; your information or meeting cannot and will not be recorded. This provides you with the opportunity to speak with the lead researcher one-on-one and get answers to questions you may have.
+</div>
+
+<div style="margin-top: 2rem;"></div>
+
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/jcedi/participant-infosessions" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
