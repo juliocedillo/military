@@ -74,7 +74,7 @@ For more details, review the "Confidentiality" section in the Informed Consent F
     font-size: 1.2em;
     font-weight: bold;
     cursor: pointer;
-    color: #2a5d9f;
+    color: #000000;
     list-style: none; /* removes default triangle */
     position: relative;
     padding-left: 25px;
@@ -97,6 +97,11 @@ For more details, review the "Confidentiality" section in the Informed Consent F
     padding-left: 0;
     margin: 0;
   }
+
+nav ul {
+  list-style: none;
+  padding-left: 0;
+  margin
 
   li {
     margin-bottom: 15px;
