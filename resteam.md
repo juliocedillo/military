@@ -34,6 +34,8 @@ permalink: /resteam
   </div>
 </div>
 
+<div style="margin-top: 2rem;"></div>
+
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <img src="https://juliocedillo.github.io/neweconomy/assets/images/julio.png" alt="Profile Image" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; margin-right: 20px;">
   <div>
