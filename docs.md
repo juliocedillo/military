@@ -5,8 +5,8 @@ permalink: /docs
 ---
 <div style="position: relative; text-align: center; color: white; height: 300px; overflow: hidden;">
 
-<img src="https://juliocedillo.github.io/military/assets/images/soldier_salute.jpg"
-     alt="multiple soldiers saluting."
+<img src="https://juliocedillo.github.io/military/assets/images/marines.jpg"
+     alt="Marines in uniforms holding rifles."
      style="width: 100%; height: 100%; object-fit: center 85%;">
 
 <div style="
