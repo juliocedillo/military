@@ -24,23 +24,6 @@ header h1 a {
   text-decoration: none;
 }
 
-nav ul {
-  list-style-type: none;
-}
-
-nav ul li {
-  display: inline;
-  margin-right: 10px;
-}
-
-nav ul li a {
-  color: #fff;
-  text-decoration: none;
-}
-
-nav ul li a:visited {
-  color: #fff;
-}
 
 main {
   padding: 20px;
@@ -145,22 +128,34 @@ th {
   text-align: left;
 }
 
-/* Remove bullets from navbar links added by theme */
-nav li::before {
+/* Remove all bullets from navbar lists and links */
+nav ul,
+nav li,
+nav li::before,
+nav a::before {
+  list-style: none !important;
+  margin: 0;
+  padding: 0;
   content: none !important;
 }
 
-/* Ensure the navbar is horizontal */
+/* Make navbar horizontal */
 nav ul {
-  list-style: none !important;
-  margin: 0;
-  padding: 0;
   display: flex;
-  gap: 15px;
+  gap: 15px; /* spacing between links */
 }
 
+/* Ensure list items have no extra styles */
 nav li {
-  list-style: none !important;
-  margin: 0;
-  padding: 0;
+  display: inline; /* inline layout */
+}
+
+/* Navbar links styling */
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav a:visited {
+  color: #fff;
 }
