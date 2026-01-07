@@ -37,12 +37,8 @@ The Committee for Protection of Human Subjects (CPHS) is comprised of two groups
 ## [Research Eligibility Screening Form](https://berkeley.qualtrics.com/jfe/form/SV_7Wlihx37aTpx5UW)
 The link takes you to a Berkeley Qualtrics survey to determine if you are eligible to participate in the study. Screening survey data will be reviewed solely to determine eligibility, will not be stored, saved, or used for research purposes, and will be downloaded from Berkeley Qualtrics on a weekly basis and permanently destroyed immediately following eligibility determination, and no later than 24 hours after download. 
 
-<div style="text-align: center;">
-  <strong>Schedule an Interview><br>
- Use the link below to schedule an interview at your convenience. If there aren't time slots you can attend, feel free to email me, and I'd be happy to accommodate your schedule.
-</div>
-
-<div style="margin-top: 2rem;"></div>
+## Schedule an Interview
+Use the link below to schedule a time to interview at your convenience. If none of the time slots work, please email me, and I'd be happy to accommodate. Before our meeting, please have the Informed Consent Form (listed above) signed and emailed or handed to me in person.
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/jcedi/interviews" style="min-width:320px;height:700px;"></div>
