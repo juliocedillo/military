@@ -38,7 +38,7 @@ permalink: /
 <div style="margin-top: 2rem;"></div>
 
 <div style="text-align: center;">
-  <strong>The Latino Soldiers & Politics Research Project is investigating how military service influences Latino identity, political engagement, and citizenship among Latino soldiers in the five main branches of the U.S. Military. This research is led by Julio Cedillo, an undergraduate student researcher at UC Berkeley, and advised by Professor Rodríguez-Muñiz. If you're interested in participating, please refer to the "Participation" tab. This research is made possible through funding provided by the Haas Scholars Program.</strong>
+  <strong>The Latino Soldiers & Politics Research Project is investigating how military service influences Latino identity, political engagement, and citizenship among Latino soldiers in the five main branches of the U.S. Military. This research is led by Julio Cedillo, an undergraduate student researcher at UC Berkeley, and advised by Professor Rodríguez-Muñiz. If you're interested in participating, please refer to the "Participation" tab. This research is made possible through funding provided by the Haas Scholars Program and the Berkeley Center for Right-Wing Studies.</strong>
 </div>
 
 <div style="margin-top: 2rem;"></div>
