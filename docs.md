@@ -24,7 +24,7 @@ permalink: /docs
 </div>
 
 
-## [Informed Consent Form](assets/pdf/Informed_Consent_Form_2025.pdf)
+## [Informed Consent Form](assets/pdf/consent_form.pdf)
 Before being interviewed, you must consent to the interview process. The Informed Consent Form lays out all information of the research protocol, including but not limited to: the purpose of the study, eligibility, procedures, benefits, risks or discomforts, how we maintain confidentiality, compensation, and your rights. Additionally, the form contains an optional segment for a follow-up interview and to receive a copy of your transcript.
 
 ## [Committee for the Protection of Human Subjects Approval Letter](assets/pdf/ApprovalLetter-IRB2025-04-18454.pdf)
